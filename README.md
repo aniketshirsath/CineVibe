@@ -21,7 +21,8 @@
 
 
 ### 🌟 User Reviews
-![cine5](https://github.com/user-attachments/assets/ad87a24d-1706-4e6b-8a8f-32b1a1a59876)
+![cine5](https://github.com/user-attachments/assets/88385300-1fc6-4b96-83e3-dec6b726945b)
+
 
 ## 🛠️ Technologies Used
 

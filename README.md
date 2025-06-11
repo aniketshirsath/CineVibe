@@ -5,7 +5,8 @@
 ## 📸 UI Screenshots
 
 ### 🎥 Home Page
-![cine1](https://github.com/user-attachments/assets/f69d31ea-09a7-4928-afb4-6dd5a2f226d9)
+![cine1](https://github.com/user-attachments/assets/a0d25add-378a-42b1-a20f-3fe7bbe4552c)
+
 
 
 ### 🍿 Popular Movies Section

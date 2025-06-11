@@ -2,7 +2,7 @@
 
 **CineVibe** is a clean and modern movie booking website frontend, built using HTML, CSS, and Media Queries. It offers a sleek UI that resembles real-life movie ticket platforms like BookMyShow. This project is perfect for showcasing frontend design skills and responsive layout techniques.
 
-🌐 **Live Demo**: _Coming Soon_ (or add link if hosted)
+🌐 **Live Demo**: https://cine-vibe-omega.vercel.app/
 
 ---
 
